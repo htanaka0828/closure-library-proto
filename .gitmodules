@@ -1,0 +1,6 @@
+[submodule "closure-builder"]
+	path = closure-builder
+	url = https://github.com/htanaka0828/closure-builder.git
+[submodule "closure-library"]
+	path = closure-library
+	url = https://github.com/google/closure-library.git
